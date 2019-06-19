@@ -4,7 +4,7 @@
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>
-    Nexus collector
+    Nexus custom collector
   </description>
   <url>https://github.com/capitalone/Hygieia</url>
   <packaging>jar</packaging>
